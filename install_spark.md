@@ -23,3 +23,6 @@ To check if we've succeded, we can launch pyspark terminal
 cd spark-3.0.0-preview2-bin-hadoop2.7
 bin/pyspark
 ```
+If the operation is successful you will see a message like this
+
+![alt_text](picture/welcome.png)
